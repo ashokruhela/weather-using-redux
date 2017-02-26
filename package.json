@@ -31,8 +31,19 @@
   },
   "keywords": [
     "redux",
-    "react"
+    "react",
+    "react-sparkline",
+    "redux-promis",
+    "google map"
   ],
   "author": "ashok ruhela",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashokruhela/weather-using-redux.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ashokruhela/weather-using-redux/issues"
+  },
+  "homepage": "https://github.com/ashokruhela/weather-using-redux#readme"
 }
